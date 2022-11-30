@@ -3,6 +3,3 @@ Quick Tracker to display some details about an Ip.
 
 ## Functionality
 ### python tracker.py [Ip]
-  
-## Output
-### It displays info about the ip address.
